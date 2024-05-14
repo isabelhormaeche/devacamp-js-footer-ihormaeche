@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer-ihormaeche",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an uptaded year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelhormaeche/devacamp-js-footer-ihormaeche.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "I. Hormaeche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isabelhormaeche/devacamp-js-footer-ihormaeche/issues"
+  },
+  "homepage": "https://github.com/isabelhormaeche/devacamp-js-footer-ihormaeche#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
